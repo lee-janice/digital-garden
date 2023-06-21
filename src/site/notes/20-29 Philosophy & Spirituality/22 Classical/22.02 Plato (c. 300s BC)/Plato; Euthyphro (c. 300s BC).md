@@ -13,7 +13,7 @@ Euthyphro is about the form of the pious.
 
 ## Characters
 
-- **Euthyphro:** an Athenian prophet, who's name means "straight thinker" in ancient Greek. He's indicting his own father for murder. 
+- **Euthyphro:** an Athenian prophet, whose name means "straight thinker" in ancient Greek. He's indicting his own father for murder. 
 - **Socrates**: the Athenian philosopher.
 - **Meletus:** the man who is indicting Socrates for corrupting the youth by blaspheming against the gods. 
 
