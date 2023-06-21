@@ -124,9 +124,11 @@ body {
     /* right sidebar styles */
     .sidebar {
         top: 56px !important;
-        width: 286px;
+        @media only screen and (min-width: 1400px) {
+            width: 286px;
+        }
 
-        .graph-component {
+        #graph-component {
             width: 264px !important;
             min-height: 264px !important;
         }
