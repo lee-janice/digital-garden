@@ -13,7 +13,9 @@
 ### From Xavier 
 
 The little additions contribute positively to the overall design.  Great work!
+
 _**Positive aspects**_: The subtle use of colors (semi-opaque text at the top, and text-line at the bottom) is very elegant.  It add just the right amount of color without being distracting.  I also agree that Arial is not the best font to use, but you need to adjust to the guidelines (and subverting them as you did with the iterative elements).  I do not think that the design lost any of the clarity or its minimalism with the changes.  I also really like what you did with the menu.
+
 _**Things to improve:**_  Add a little touch of color to the menu, maybe a very small circle of color before the name of the page when it is selected, hovered over.  Apart from that, I think your design is more than ready.
 
 ### From PeerStudio
@@ -89,7 +91,6 @@ Good typography usage will enhance and amplify the meaning of text.
 
 - You should think of the subject matter itself, the audience, and the medium 
 - Contrast is important 
-
 - Headlines should be large and prominent 
 - A typeface that is not legible is not a true typeface
 - Limit the number of typefaces to three at most 
