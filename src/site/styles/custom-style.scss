@@ -57,7 +57,7 @@ body {
 
         h1 {
             text-align: left !important;
-            margin: 56px 0px 16px 16px;
+            margin: 56px 8px 8px 24px;
             font-size: 2rem !important;
         }
     }
@@ -123,7 +123,50 @@ body {
 
     /* right sidebar styles */
     .sidebar {
-        top: 16px !important;
+        top: 56px !important;
+        width: 286px;
+
+        .graph-component {
+            width: 264px !important;
+            min-height: 264px !important;
+        }
+
+        .graph {
+            width: 264px !important;
+            min-height: 264px !important;
+
+            #link-graph {
+                border: 1px solid var(--text-accent);
+                border-radius: 5px !important;
+                width: 264px !important;
+                height: 264px !important;
+            }
+        }
+
+        .graph-fs {
+            width: 45% !important;
+            height: 75% !important;
+
+            #link-graph {
+                border: 0px;
+                border-radius: 0px !important;
+                width: 100% !important;
+                height: 100% !important;
+            }
+        }
+    }
+
+    .graph-title {
+        display: none;
+    }
+
+    #graph-controls {
+        margin: 8px 0px 0px 4px;
+        font-size: 1.2rem;
+    }
+
+    #depth-display {
+        display: none;
     }
 
     .toc-container {
@@ -133,6 +176,16 @@ body {
         }
         li::before {
             content: "" !important;
+        }
+    }
+
+    .lucide-link {
+        display: none;
+    }
+
+    .backlinks {
+        .backlink-title {
+            font-size: 1.2rem !important;
         }
     }
 
