@@ -13,7 +13,9 @@
 ### From Xavier 
 
 Excellent work with the grid!  Even the small position changes helped to clean the design and I like the triangle with the text even more.
+
 _**Positive aspects:**_ Almost everything is connected to the grid. The few elements that are not (for example the "Filters" title text for the selection boxes) is just in the middle.  I agree that starting with the grid is always preferable, but the first time is better to battle with it to discover it usefulness. Also the use of the golden ratio seems to be a good choice.  It does not need to be a perfect fit, just a guide. Finally, I like your idea of the overlay for the menu.  It solve the space problem and it is clear that you can use it for navigation.
+
 _**Things to improve:**_ Not much, really.  The red arrow for the menu will be easily misinterpreted by the users.  Try to use a more universal symbol such as the "hamburger" menu icon ☰.
 
 ### From PeerStudio
