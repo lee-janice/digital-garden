@@ -24,6 +24,7 @@
 > details of former lives, 
 > being in one a cucumber 
 > and one time a sardine.
+> <footer style="text-align: right;">— The roast of Pythagoras</footer>
 
 > [!quote] 
 > 114
@@ -37,6 +38,7 @@
 > my fellow citizens declare,
 > whoever would seek excellence can find it
 > elsewhere among others.
+> <footer style="text-align: right;">— The roast of the Ephesians</footer>
 
 > [!quote] 
 > 127
@@ -50,3 +52,4 @@
 > what filth their shamelessness 
 > has made of them 
 > and of the name of god.
+> <footer style="text-align: right;">— The roast of the cult of Dionysus</footer>
