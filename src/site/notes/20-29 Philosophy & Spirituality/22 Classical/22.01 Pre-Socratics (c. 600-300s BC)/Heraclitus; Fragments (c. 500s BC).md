@@ -16,6 +16,7 @@
 ---
 # Quotes
 
+> [!quote] 
 > 17
 > Pythagoras may well have been 
 > the deepest in his learning of all men.
@@ -24,6 +25,7 @@
 > being in one a cucumber 
 > and one time a sardine.
 
+> [!quote] 
 > 114
 > As for the Ephesians,
 > I would have them, youths,
@@ -36,6 +38,7 @@
 > whoever would seek excellence can find it
 > elsewhere among others.
 
+> [!quote] 
 > 127
 > Dionysus is their name for death. 
 > And if they did not claim
