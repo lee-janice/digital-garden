@@ -9,10 +9,25 @@
 | ---------- | --------------------------------------------------------------------- |
 | 🟨 Yellow  | Important quote or important information                              |
 | 🟥 Red     | Something that I disagree with / gives me pause                       |
-| 🟩 Green   | Key concept / word / vocabulary (should add a definition page for it) | 
+| 🟩 Green   | Key concept / word / vocabulary (should add a definition page for it) |
 | 🟦 Blue    | Key conclusion / *ratio decidendi*                                    |
 | 🟪 Purple  | Something interesting but not critical                                |
 | 🌸 Magenta |                                                                       |
 | 🟧 Orange  | Sources                                                               |
-| ◻️ Gray    |                                                                       |
+| ◻️ Gray    | Research questions                                                    | 
+
+
+| Color      | Meaning                                         |
+| ---------- | ----------------------------------------------- |
+| 🟧 Orange  | Background literature                           |
+| ◻️ Gray    | Research questions                              |
+| 🟩 Green   | Methods                                         |
+| 🟨 Yellow  | Results / discussion                            |
+| 🟦 Blue    | Key conclusion / *ratio decidendi*              |
+| 🌸 Magenta | Future work / Limitations                       | 
+| 🟥 Red     | Something that I disagree with / gives me pause |
+| 🟪 Purple  |                                                 |
+
+
+
 
