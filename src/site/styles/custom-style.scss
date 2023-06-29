@@ -231,4 +231,46 @@ body {
         background-color: rgba(170, 170, 170, 0.5) !important;
         color: white;
     }
+
+    .callout[data-callout="background-literature"] {
+        background-color: rgba(255, 204, 0, 0.1);
+        --callout-color: 241, 152, 55;
+        --callout-icon: lucide-album;
+    }
+
+    .callout[data-callout="research-questions"] {
+        background-color: rgba(170, 170, 170, 0.1);
+        --callout-color: 170, 170, 170;
+        --callout-icon: lucide-help-circle;
+    }
+
+    .callout[data-callout="methods"] {
+        background-color: rgba(0, 255, 47, 0.1);
+        --callout-color: 0, 255, 47;
+        --callout-icon: lucide-flask-conical;
+    }
+
+    .callout[data-callout="results"] {
+        background-color: rgba(255, 204, 0, 0.1);
+        --callout-color: 255, 204, 0;
+        --callout-icon: lucide-file-text;
+    }
+
+    .callout[data-callout="key-conclusion"] {
+        background-color: rgba(46, 168, 229, 0.1);
+        --callout-color: 46, 168, 229;
+        --callout-icon: lucide-star;
+    }
+
+    .callout[data-callout="future-work"] {
+        background-color: rgba(229, 110, 238, 0.1);
+        --callout-color: 229, 110, 238, 0.5;
+        --callout-icon: lucide-hourglass;
+    }
+
+    .callout[data-callout="disagreement"] {
+        background-color: rgba(255, 102, 102, 0.1);
+        --callout-color: 255, 102, 102, 0.5;
+        --callout-icon: lucide-x-circle;
+    }
 }
