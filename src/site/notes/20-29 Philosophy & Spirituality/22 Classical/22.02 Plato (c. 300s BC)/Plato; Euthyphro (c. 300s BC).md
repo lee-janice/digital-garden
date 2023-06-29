@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-philosophy-and-spirituality/22-classical/22-02-plato-c-300s-bc/plato-euthyphro-c-300s-bc/","tags":[" #philosophy/ancient"," #philosophy/plato"," #philosophy/religion"]}
+{"dg-publish":true,"permalink":"/20-29-philosophy-and-spirituality/22-classical/22-02-plato-c-300s-bc/plato-euthyphro-c-300s-bc/","tags":[" #philosophy/classical"," #philosophy/plato"," #philosophy/religion"]}
 ---
 
 
