@@ -18,6 +18,7 @@
 
 > [!quote] 
 > 17
+> 
 > Pythagoras may well have been 
 > the deepest in his learning of all men.
 > And still he claimed to recollect 
@@ -28,13 +29,15 @@
 
 > [!quote] 
 > 114
+> 
 > As for the Ephesians,
 > I would have them, youths,
 > elders, and all those between, 
 > go hang themselves, leaving the city
 > in the abler hands of children.
 > With banishment of Hermodoros
-> they say, No many should be worthier than average. Thus,
+> they say, No many should be 
+> worthier than average. Thus,
 > my fellow citizens declare,
 > whoever would seek excellence can find it
 > elsewhere among others.
@@ -42,6 +45,7 @@
 
 > [!quote] 
 > 127
+> 
 > Dionysus is their name for death. 
 > And if they did not claim
 > the statue of the drunk 
