@@ -28,3 +28,21 @@
 > [!example]
 
 > [!quote] Quote, Cite
+
+# Custom callouts 
+
+>[!background-literature] Background Literature
+
+>[!research-questions] Research Questions
+
+>[!methods] Methods
+
+>[!results] Results
+
+>[!key-conclusion] Key Conclusion
+
+>[!future-work] Future Work
+
+>[!disagreement] Disagreement
+
+
