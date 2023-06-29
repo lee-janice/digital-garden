@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-philosophy-and-spirituality/22-classical/22-02-plato-c-300s-bc/plato-phaedo-c-300s-bc/","tags":[" #philosophy/ancient"," #philosophy/plato"," #philosophy/soul"]}
+{"dg-publish":true,"permalink":"/20-29-philosophy-and-spirituality/22-classical/22-02-plato-c-300s-bc/plato-phaedo-c-300s-bc/","tags":[" #philosophy/classical"," #philosophy/plato"," #philosophy/soul"]}
 ---
 
 
