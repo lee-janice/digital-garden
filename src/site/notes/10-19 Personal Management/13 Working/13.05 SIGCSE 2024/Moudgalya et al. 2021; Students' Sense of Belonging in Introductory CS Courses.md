@@ -89,6 +89,7 @@
 > [!results]+ Results / Discussion  
 >Finally, for the POGIL learning environment, sense of belonging seemed to be more correlated (but note not significantly, according to Fisher r to z transformation) with the interest to pursue CS and the learning assessments compared to non-POGIL conditions. ([4](zotero://open-pdf/library/items/CPF8WZYT?page=4&annotation=C7R5NFTS)) 
 
+
  
  ![[00-09 Meta/01 Assets/moudgalyaMeasuringStudentsSense2021/image-5-x46-y323.png \| 300]]
 
