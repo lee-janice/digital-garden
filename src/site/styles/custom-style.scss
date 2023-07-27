@@ -2,12 +2,31 @@ html {
     font-size: 12px !important;
 }
 
+.theme-dark {
+    // background: var(--color-base-00);
+    // background: black;
+    --background-primary: #101010;
+    --text-normal: var(--color-base-70);
+    --text-accent: var(--color-base-50);
+    --link-color: var(--color-base-50);
+    --link-color-hover: var(--color-base-80);
+    --h1-color: var(--color-base-70);
+    --border-color: var(--color-base-10);
+}
+
+main {
+    top: 0px;
+}
+
 body {
     /***
     ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
     IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
  ***/
-    position: relative;
+
+    header h1 {
+        margin-top: 48px !important;
+    }
 
     p,
     li {
@@ -41,6 +60,13 @@ body {
         font-weight: bolder !important;
     }
 
+    // main a {
+    //     text-decoration-line: underline !important;
+    // }
+    .notelink.active-note a {
+        color: var(--color-base-60);
+    }
+
     .markdown-preview-view h1,
     .markdown-preview-view h2,
     .markdown-preview-view h3,
@@ -50,10 +76,22 @@ body {
         margin-block-start: 16px !important;
     }
 
+    .markdown-rendered .internal-link {
+        text-decoration-line: none;
+    }
+
+    /* navbar styles */
+    .navbar {
+        padding: 0px 36px 0px 36px;
+        background-color: var(--background-primary);
+    }
+
     /* left sidebar styles */
     .filetree-sidebar {
         padding: 0px 0px 16px 0px !important;
-        width: 264px !important;
+        width: 288px !important;
+        border-right: 1px solid var(--border-color) !important;
+        background-color: var(--background-primary);
 
         h1 {
             text-align: left !important;
@@ -63,6 +101,7 @@ body {
     }
 
     .search-button {
+        border: 1px solid var(--color-base-30) !important;
         border-radius: 6px !important;
         margin: 16px 16px 16px 16px !important;
         min-width: 232px !important;
@@ -105,17 +144,21 @@ body {
         margin: -4px 0px -4px 0px;
     }
 
+    .notelink.active-note {
+        transform: none;
+    }
+
     .lucide-sticky-note {
-        // width: 12px;
-        // height: 12px;
         display: none;
     }
 
     /* content area styles */
     .content {
-        max-width: 800px !important;
-        margin-top: 64px !important;
+        max-width: 1400px !important;
+        margin-top: 96px !important;
+        margin-right: 0px !important;
         @media only screen and (min-width: 1400px) {
+            max-width: 724px !important;
             margin-left: 300px;
             margin-top: 0px !important;
         }
@@ -123,11 +166,14 @@ body {
 
     /* right sidebar styles */
     .sidebar {
-        top: 56px !important;
+        // height: 100% !important;
+        // border-left: 1px solid var(--color-base-30);
+        // max-width: 100%;
         @media only screen and (min-width: 1400px) {
             width: 286px;
         }
 
+        /* graph */
         #graph-component {
             width: 264px !important;
             min-height: 264px !important;
@@ -138,16 +184,20 @@ body {
             min-height: 264px !important;
 
             #link-graph {
-                border: 1px solid var(--text-accent);
-                border-radius: 5px !important;
                 width: 264px !important;
                 height: 264px !important;
+                background-color: var(--background-primary);
+                border: 1px solid var(--border-color);
+                border-radius: 5px !important;
             }
         }
 
         .graph-fs {
             width: 45% !important;
-            height: 75% !important;
+            min-width: 40% !important;
+            height: 85% !important;
+            background-color: var(--background-primary);
+            border: 1px solid var(--border-color);
 
             #link-graph {
                 border: 0px;
@@ -155,6 +205,11 @@ body {
                 width: 100% !important;
                 height: 100% !important;
             }
+        }
+
+        #full-graph {
+            background-color: var(--background-primary);
+            border: 1px solid var(--border-color);
         }
     }
 
@@ -171,10 +226,22 @@ body {
         display: none;
     }
 
+    /* table of contents */
+    .toc {
+        overflow-y: initial;
+        height: 100%;
+        background: none;
+        padding: 10px 0px 0px 0px;
+    }
+
     .toc-container {
+        overflow-y: initial;
+        border-left: none;
+
         ol {
             margin-top: 0px;
-            padding: 0px 8px 8px 8px;
+            padding: 0px 0px 8px 8px;
+            border-left: 1px solid var(--color-base-00);
         }
         li::before {
             content: "" !important;
@@ -186,6 +253,9 @@ body {
     }
 
     .backlinks {
+        display: none;
+        background-color: solid var(--color-base-30);
+
         .backlink-title {
             font-size: 1.2rem !important;
         }
