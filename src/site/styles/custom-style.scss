@@ -166,15 +166,20 @@ body {
 
     /* right sidebar styles */
     .sidebar {
-        // height: 100% !important;
-        // border-left: 1px solid var(--color-base-30);
-        // max-width: 100%;
+        top: 0px;
+        border-left: 1px solid var(--border-color);
         @media only screen and (min-width: 1400px) {
-            width: 286px;
+            width: 300px;
+        }
+
+        .sidebar-container {
+            height: 100%;
+            padding-left: 16px;
         }
 
         /* graph */
         #graph-component {
+            margin-top: 48px;
             width: 264px !important;
             min-height: 264px !important;
         }
@@ -259,47 +264,6 @@ body {
         .backlink-title {
             font-size: 1.2rem !important;
         }
-    }
-
-    /* borrowed from https://forum.obsidian.md/t/my-zotero-annotation-template-that-works/51662 */
-    .customZot-Yellow {
-        background-color: rgba(255, 204, 0, 0.5) !important;
-        color: white;
-    }
-
-    .customZot-Red {
-        background-color: rgba(255, 102, 102, 0.5) !important;
-        color: white;
-    }
-
-    .customZot-Green {
-        background-color: rgba(0, 255, 47, 0.5) !important;
-        color: white;
-    }
-
-    .customZot-Blue {
-        background-color: rgba(46, 168, 229, 0.5) !important;
-        color: white;
-    }
-
-    .customZot-Purple {
-        background-color: purple !important;
-        color: white;
-    }
-
-    .customZot-Magenta {
-        background-color: rgba(229, 110, 238, 0.5) !important;
-        color: white;
-    }
-
-    .customZot-Orange {
-        background-color: rgba(241, 152, 55, 0.5) !important;
-        color: white;
-    }
-
-    .customZot-Gray {
-        background-color: rgba(170, 170, 170, 0.5) !important;
-        color: white;
     }
 
     .callout[data-callout="background-literature"] {
