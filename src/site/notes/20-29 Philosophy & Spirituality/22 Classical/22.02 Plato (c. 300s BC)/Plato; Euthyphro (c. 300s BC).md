@@ -40,7 +40,11 @@ Euthyphro is about the form of the pious.
 
 ## Part 2: The pious is not the beloved 
 
-**S:** Is the pious loved by the gods because it is pious, or is it pious because it is loved?[^1] If something becomes, it doesn't come to be because it is coming into being. Rather, it is a thing coming into being because it comes to be. ==(Q: is this saying that the action precedes the description?)==
+**S:** Is the pious loved by the gods because it is pious, or is it pious because it is loved?[^1] If something becomes, it doesn't come to be because it is coming into being. Rather, it is a thing coming into being because it comes to be.
+
+> [!question] 
+> Is this saying that action precedes description?
+
 - For example, what is carried is a carried thing because it is carried; what is led is a led thing because it is led; what is seen is a seen thing because it is seen.
 - ⇒ Something is loved because it is pious; it is not the case that something is pious because it is loved. 
 - ⇒ The beloved is not pious: the beloved is beloved because it is loved. The pious is not pious because it is loved (rather, it is loved because it is pious). 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-philosophy-and-spirituality/22-classical/22-01-pre-socratics-c-600-300s-bc/heraclitus-fragments-c-500s-bc/","tags":[" #philosophy/ancient"," #philosophy/heraclitus"," #philosophy/justice"]}
+{"dg-publish":true,"permalink":"/20-29-philosophy-and-spirituality/22-classical/22-01-pre-socratics-c-600-300s-bc/heraclitus-fragments-c-500s-bc/","tags":[" #philosophy/classical"," #philosophy/heraclitus"," #philosophy/pre-socratic"]}
 ---
 
 
