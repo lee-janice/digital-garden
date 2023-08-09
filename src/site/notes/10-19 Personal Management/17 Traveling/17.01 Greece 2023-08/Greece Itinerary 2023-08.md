@@ -25,9 +25,18 @@ https://www.delphi-philosophy.com/post/a-philosophical-walk-through-ancient-athe
 
 ## Crete
 
+https://greece.terrabook.com/chania/chapter/culture/cultural-attractions/
+
+- Old Venetian Port of Chania
+- Old Town in Chania
+- Archaeological Museum of Chania
+- Day trip to Rethymno
+- Heraklion Archaeological Museum
+- Knossos (Heraklion)
+
 ## Naxos
 
----
+
 ---
 # Day breakdown 
 
@@ -37,16 +46,19 @@ https://www.delphi-philosophy.com/post/a-philosophical-walk-through-ancient-athe
 - Flight to LHR @ 9:30pm (JFK)
 
 ---
-## Friday, 2023-08-18
+## Friday, 2023-08-18 (Athens)
 
+### Travel
 - Layover in LHR @ 9:35am
 - Flight to ATH @ 11:15am
 - Arrival in ATH @ 5:00pm
 
-Athens
+### Evening
+- Check into AirBnB
+- Dinner at 
 
 ---
-## Saturday, 2023-08-19
+## Saturday, 2023-08-19 (Athens)
 
 ### Morning
 
@@ -54,73 +66,118 @@ Athens
 
 ### Evening
 
-Athens
+---
+## Sunday, 2023-08-20 (Athens)
+
+### Morning
+
+### Afternoon
+
+### Evening
 
 ---
-## Sunday, 2023-08-20
+## Monday, 2023-08-21 (Athens)
 
-Athens
+### Morning
 
----
-## Monday, 2023-08-21
+### Afternoon
 
-Athens
-
----
-## Tuesday, 2023-08-22
-
-Athens
+### Evening
 
 ---
-## Wednesday, 2023-08-23
+## Tuesday, 2023-08-22 (Athens)
 
-Crete
+### Morning
 
----
-## Thursday, 2023-08-24
+### Afternoon
 
-Crete
-
----
-## Friday, 2023-08-25
-
-Crete
+### Evening
 
 ---
-## Saturday, 2023-08-26
+## Wednesday, 2023-08-23 (Chania)
 
-Naxos
+###  Travel
+- Flight from ATH to CHQ @ 4:50am 
+- Arrival at CHQ @ 5:40am
 
----
-## Sunday, 2023-08-27
+### Morning
 
-Naxos
+### Afternoon
 
----
-## Monday, 2023-08-28
-
-Naxos
+### Evening
 
 ---
-## Tuesday, 2023-08-29
+## Thursday, 2023-08-24 (Chania)
 
-Athens
+### Morning
 
-- Flight to LHR @ 2:05pm (ATH)
+### Afternoon
+
+### Evening
+
+---
+## Friday, 2023-08-25 (Heraklion)
+
+### Morning
+- Take a bus to Heraklion from Chania 
+- Eat lunch
+
+### Afternoon
+- Heraklion Archaeological Museum
+
+### Evening
+
+---
+## Saturday, 2023-08-26 (Naxos)
+
+###  Travel
+- Ferry from Heraklion to Naxos @ 8:00am 
+- Arrival at Naxos @ 11:45am
+
+---
+## Sunday, 2023-08-27 (Naxos)
+
+### Morning
+
+### Afternoon
+
+### Evening
+
+---
+## Monday, 2023-08-28 (Naxos)
+
+### Morning
+
+### Afternoon
+
+### Evening
+
+---
+## Tuesday, 2023-08-29 (Athens)
+
+###  Travel
+- Flight from JNX to ATH @ 10:35am
+- Arrival at ATH @ 11:20am 
+
+###  Travel
+- Flight from ATH to LHR @ 2:05pm 
 - Layover in LHR @ 4:00pm 
 - Flight to NYC @ 6:05pm
 - Arrival at JFK @ 9:00pm
 
-
 --- 
 # Costs 
 
-Total so far: 1656.15
+Total so far:
 
 - Flights: 
 	- JFK to ATH to JFK: 832.35
-	- 
-- Lodging: 768.95
+	- Flight from ATH to CHQ: 92.93
+	- Ferry from HER to NAX: 116.99
+	- Flight from JNX to ATH: 102.13
+ 
+- Lodging: 
 	- Athens AirBnB: 288.15 (Free cancellation before Aug 16)
-	- Crete AirBnB: 240.13 (Free cancellation before Jul 24)
+	- Chania AirBnB: 240.13 (Free cancellation before Jul 24)
+	- Heraklion AirBnB: 71.00 
 	- Naxos AirBnB: 295.52 (Free cancellation before Aug 23)
