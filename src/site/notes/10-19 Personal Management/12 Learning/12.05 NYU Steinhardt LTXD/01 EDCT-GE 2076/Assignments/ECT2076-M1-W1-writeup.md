@@ -17,7 +17,7 @@
 
 For my wireframe, I attempted to design a web-based data dashboard for my job at the Research Alliance for NYC Schools, where I evaluate the impact of the CS4All initiative (a 10-year, $81 million effort to bring computer science education to every NYC public school student). I've been trying to think of ways to disseminate our research to a wider audience and give back to / better inform those who are at the center of the work, and an interactive data dashboard seemed to fit the bill! 
 
-I imagined that the data presented in the dashboard would be organized according to the four components of the CAPE framework[^1], illustrated below, which was developed to assess issues of equity in CS education ecosystem. 
+I imagined that the data presented in the dashboard would be organized according to the four components of the CAPE framework[^1], illustrated below, which was developed to assess issues of equity in the CS education ecosystem. 
 
 [^1]: Fletcher, C.L., Warner, J.R. (2021, February). [CAPE: A Framework for Assessing Equity throughout the Computer Science Education Ecosystem. Communications of the ACM](https://cacm.acm.org/magazines/2021/2/250074-cape/fulltext), 64(2), 23-25. doi:10.1145/3442373
 
