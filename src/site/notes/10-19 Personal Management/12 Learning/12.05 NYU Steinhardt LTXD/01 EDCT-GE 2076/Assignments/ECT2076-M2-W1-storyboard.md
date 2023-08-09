@@ -37,13 +37,12 @@
 
 ## Scene 9
 - (animation)
-- This is an example of what a DATA step can look like. 
-	- Every data step will begin with "data" and end with "run". Notice also that in the SAS syntax, every statement must end with a semicolon. 
-	- After the word "data", you can specify the name of the dataset. In this example, we're naming the dataset "FINAL_GRADES".
-	- A "set" statement after the "data" statement tells SAS to copy over the data from the dataset "EXAM_SCORES". In this example, the "EXAM_SCORES" dataset contains the following data: (display data) the student's name and the scores they received on three exams. 
-	- This next statement tells SAS to create a new variable in the "FINAL_GRADES" dataset called "grade", which takes the average of the student's exam scores. 
-	- The next two statements tell SAS to create a new variable named "passed_course", which will be 1 (representing true) if the student's final grade is greater or equal to 70, and 0 (or false) if the student's grade is less than 70.
-	- The last statement tells SAS to only keep three variables: the student's name, their grade, and the flag indicating whether they passed the course. All of the other variables, the three exam scores, will be removed from the final dataset.
+Let’s say that you have a dataset called EXAM_SCORES, which contains students’ names and their scores on 3 exams, and you want to use this dataset to calculate a student’s final grade in the course. Then, you may write a DATA step that looks something like this.  Let’s go through what each line of this DATA step does.  
+- In the first statement, after the word "data", you specify the name of the dataset. In this example, we're naming the dataset "FINAL_GRADES".
+- Next, the "set" statement tells SAS to copy over the data from the dataset "EXAM_SCORES". 
+- This next statement tells SAS to create a new variable in the "FINAL_GRADES" dataset called "grade", which is equal to the average of the student's exam scores.
+- The next two statements tell SAS to create a new variable named "passed", which will be set to 1 (representing true) if the student's final grade is greater or equal to 70, and 0 (or false) if the student's grade is less than 70.
+- The last statement tells SAS to only keep three variables: the student's name, their grade, and the flag indicating whether they passed the course. All of the other variables, the three exam scores, will be removed from the final dataset.
  
 ```
 data final_grades;
@@ -51,7 +50,6 @@ data final_grades;
 	grade = mean(score_exam1, score_exam2, score_exam3);
 	if grade >= 70 then passed_course = 1; 
 	else if 0 <= grade < 70 then passed_course = 0;
-	keep name grade passed_course;
 run;
 ```
 
@@ -62,13 +60,31 @@ run;
 
 ## Scene 11
 - (animation)
-- Flow of action in a DATA step 
+- Here is the flow of action for this DATA step in SAS. You can see that it's divided into 2 phases: the compilation and the execution phases. 
 
 ## Scene 12 
-- (animation)
-- Animated walkthrough of what happens in a data step
+- In the compilation phase, SAS first checks the syntax of the SAS statements for correctness and translates it into machine code. Then, SAS creates what's called the program data vector, or PDV. In addition to storing the values of the variables to write to the dataset, it also contains two automatically created variables: _N_  and _ERROR_. The _N_ variable counts the number of times the DATA step executes, and the _ERROR_ variable flags if an error had occurred. Lastly, it keeps track of which variables we keep or drop from our final dataset. 
 
-## Scene 13 
+- Now, let's step through what happens in the execution phase. 
+- The DATA step begins with the DATA statement, and in the PDV, the automatic variable _N_ is incremented by 1, and the ERROR flag is 0.
+- SAS initially sets the variable values in the PDV to missing.
+- Then, when the SET statement executes, it reads in one observation from the input dataset, EXAM_SCORES, into the PDV. So, the values of NAME, SCORE1, SCORE2, and SCORE3 are filled in. 
+- The next statements tell SAS to set the value of GRADE in the PDV to the mean of the three scores, and the value of PASSED_COURSE to 1 if GRADE is greater or equal to 70, and 1 if it's between 0 and 70.
+- The KEEP statement tells SAS which variables to keep, and now that there aren't any more statements to execute, SAS writes the observation to the SAS data set named FINAL_GRADES and returns to the top of the DATA step. The whole process is repeated for each observation in EXAM_SCORES until there aren't any left, at which point the DATA step ends.  
+
+- In the execution phase, SAS reads in each observation in the input dataset **one by one**. This is important to note, because it differs from how something like R or Python would handle data, which is to store the entire input dataset into memory. This makes SAS pretty good at handling very large datasets, since it only needs to store and manipulate one observation at a time. 
+
+	- So, the PDV for our example will look like this. Notice that it contains not only the variables from the original dataset, but also the new variables that we create in our DATA step.
+	- The second object is the descriptor information about the dataset, which includes things like the dataset name, the date and time of creation, and variable names.
+
+## Scene 13
+- (animation)
+- 
+-  
+- 
+- 
+
+## Scene 14
 - (long shot)
 - So, now you know the nitty gritty details of how SAS thinks and processes data in the DATA step. The example that we walked through here was a very basic one, but this knowledge will be an important foundation for manipulating data in more complex ways. With this knowledge, you are one step closer to becoming a SAS wizard!
 
