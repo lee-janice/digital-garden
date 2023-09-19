@@ -12,9 +12,9 @@
 | 🟩 Green   | Key concept / word / vocabulary (should add a definition page for it) |
 | 🟦 Blue    | Key conclusion / *ratio decidendi*                                    |
 | 🟪 Purple  | Something interesting but not critical                                |
-| 🌸 Magenta |                                                                       |
+| 🌸 Magenta | Key persons / groups                                                  |
 | 🟧 Orange  | Sources                                                               |
-| ◻️ Gray    | Research questions                                                    | 
+| ◻️ Gray    | Research questions / Headings                                         | 
 
 
 | Color      | Meaning                                         |
