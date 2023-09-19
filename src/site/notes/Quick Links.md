@@ -11,8 +11,8 @@
 
 # School 
 
-- [[10-19 Personal Management/12 Learning/12.05 NYU Steinhardt LTXD/01 EDCT-GE 2076/01 EDCT-GE 2076\|01 EDCT-GE 2076]]
-- [[10-19 Personal Management/12 Learning/12.05 NYU Steinhardt LTXD/01 EDCT-GE 2076/01 Graphic Design - Week 3\|01 Graphic Design - Week 3]]
+- [[10-19 Personal Management/12 Learning/12.05 NYU Steinhardt LTXD/01 Technical Design Studio/01 Technical Design Studio\|01 Technical Design Studio]]
+- [[10-19 Personal Management/12 Learning/12.05 NYU Steinhardt LTXD/01 Technical Design Studio/01 Graphic Design - Week 3\|01 Graphic Design - Week 3]]
 
 # Reading
 
